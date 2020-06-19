@@ -1,3 +1,4 @@
 Git text file 1
 some changes
 some random addition to text file
+1 more change
