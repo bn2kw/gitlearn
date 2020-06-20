@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-new text file for branch1
-edit from master
-=======
-edit from branch2
->>>>>>> branch2
+Line 1 from Remote Repo
+Line 2 from Remote Repo
